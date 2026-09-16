@@ -6,3 +6,9 @@ Hi
 
 repo link-
 https://github.com/abhinavchand877/Team-2
+
+step 1: got to git and create a file -folder
+step 2:git init
+step 3:git clone url
+step 4:cd reponame
+step 5:
