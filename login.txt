@@ -8,6 +8,8 @@ repo url-
 https://github.com/abhinavchand877/Team-2. 
 //fork 
 
+
+all other members:-
 step 1:got to git and create a file -folder
 step 2:git init
 step 3:git clone url //.git
